@@ -3,4 +3,3 @@
 ENVIRONMENT=production
 VERSION=1.4
 LOG_LEVEL=info
-ARCHIVE_ENDPOINT=https://atlas-archive.pntr.dev
