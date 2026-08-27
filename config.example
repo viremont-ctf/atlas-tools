@@ -1,0 +1,5 @@
+# Atlas configuration
+
+ENVIRONMENT=production
+VERSION=1.4
+LOG_LEVEL=info
