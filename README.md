@@ -1,4 +1,4 @@
-# Atlas Tools
+# Viremont Data Tools
 
 Small utilities for processing football match
 statistics and structured datasets.
